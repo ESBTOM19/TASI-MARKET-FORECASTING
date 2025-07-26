@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow==2.15.0
+scikit-learn
+xgboost
+keras
+yfinance
+ta
+tsfresh
+jupyterlab
